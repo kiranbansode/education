@@ -2,8 +2,18 @@
 
 ## Software Development (Self-Taught)
 
-| --- | --- |
-| --- | --- |
+| Sr. No. | Technology / Tool / Skill | Course / Documentation | Status |
+| :-----: | :------------------------ | :--------------------: | :----: |
+|    1    | HTML                      |                        |        |
+|    2    | CSS                       |                        |        |
+|    3    | JavaScript                |                        |        |
+|    4    | Advanced JavaScript       |                        |        |
+|    5    | TypeScript                |                        |        |
+|    6    | React                     |                        |        |
+|    7    | React-Router              |                        |        |
+|    8    | Redux                     |                        |        |
+|    9    | Styled Components         |                        |        |
+|   10    | SASS                      |                        |        |
 
 ## Traditional
 
