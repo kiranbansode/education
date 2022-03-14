@@ -2,30 +2,65 @@
 
 ## Software Development (Self-Taught)
 
-| Sr. No. | Technology / Tool / Skill | Course / Documentation | Status |
-| :-----: | :------------------------ | :--------------------: | :----: |
-|         | HTML                      |                        |        |
-|         | CSS                       |                        |        |
-|         | JavaScript                |                        |        |
-|         | Advanced JavaScript       |                        |        |
-|         | TypeScript                |                        |        |
-|         | Git & GitHub              |                        |        |
-|         | React                     |                        |        |
-|         | React-Router              |                        |        |
-|         | Redux                     |                        |        |
-|         | Styled Components         |                        |        |
-|         | SASS                      |                        |        |
-|         | Firebase                  |                        |        |
-|         | Node.js                   |                        |        |
-|         | Express                   |                        |        |
-|         | REST API                  |                        |        |
-|         | GraphQL                   |                        |        |
-|         | Linux                     |                        |        |
-|         | Figma                     |                        |        |
-|         | Draw.io                   |                        |        |
-|         | Figma                     |                        |        |
-|         | Trello                    |                        |        |
-|         | Vite                      |                        |        |
+### Front-End
+
+| Sr. No. | Frontend / Client Technologies | Course / Documentation | Status |
+| :-----: | :----------------------------- | :--------------------: | :----: |
+|         | HTML                           |                        |        |
+|         | CSS                            |                        |        |
+|         | JavaScript                     |                        |        |
+|         | Advanced JavaScript            |                        |        |
+|         | TypeScript                     |                        |        |
+|         | Git & GitHub                   |                        |        |
+|         | React                          |                        |        |
+|         | React-Router                   |                        |        |
+|         | Redux                          |                        |        |
+|         | Styled Components              |                        |        |
+|         | SASS                           |                        |        |
+|         | D3.js                          |                        |        |
+|         | PWA                            |                        |        |
+
+### Back-End
+
+| Sr. No. | Backend / Server Technologies | Course / Documentation | Status |
+| :-----: | :---------------------------- | :--------------------: | :----: |
+|         | Linux                         |                        |        |
+|         | Firebase                      |                        |        |
+|         | Node.js                       |                        |        |
+|         | Express                       |                        |        |
+|         | REST API                      |                        |        |
+|         | GraphQL                       |                        |        |
+|         | PostgreSQL                    |                        |        |
+|         | MongoDB                       |                        |        |
+
+### Project Management / Designing Tools
+
+| Sr. No. | Project Management / Designing Tools | Course / Documentation | Status |
+| :-----: | :----------------------------------- | :--------------------: | :----: |
+|         | VSCode                               |                        |        |
+|         | Vite                                 |                        |        |
+|         | ESLint                               |                        |        |
+|         | Prettier                             |                        |        |
+|         | Husky                                |                        |        |
+|         | Conventional Commits                 |                        |        |
+|         | Figma                                |                        |        |
+|         | Draw.io                              |                        |        |
+|         | Trello                               |                        |        |
+
+### Must have Skills
+
+| Sr. No. | Must have Skills  | Course / Documentation | Status |
+| :-----: | :---------------- | :--------------------: | :----: |
+|         | Design Patterns   |                        |        |
+|         | Software Testings |                        |        |
+
+### Nice to Read or Learn
+
+| Sr. No. | Nice to Read or Learn                | Course / Documentation | Status |
+| :-----: | :----------------------------------- | :--------------------: | :----: |
+|         | Design Systems                       |                        |        |
+|         | Web Content Accessibility Guidelines |                        |        |
+|         | UI / UX                              |                        |        |
 
 ## Traditional
 
