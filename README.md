@@ -2,60 +2,61 @@
 
 ## Software Development (Self-Taught)
 
-> 🚧 - Working, ✅ - Done, ⌛ - In-Line
+> 🚧 - Learning, ✅ - Done, ⌛ - In-Line
 
 ### Front-End
 
-| Sr. No. | Frontend / Client Technologies | Course / Documentation                                      | Status |
-| :-----: | :----------------------------- | :---------------------------------------------------------- | :----: |
-|    1    | HTML                           | Build Responsive Real-World Websites with HTML and CSS      |   🚧   |
-|    2    | CSS                            | Advanced CSS and Sass, FlexBox, Grid, Animations and more   |        |
-|    3    | JavaScript                     | The Complete JavaScript Course - From Zero to Expert        |   🚧   |
-|    4    | Advanced JavaScript            |                                                             |        |
-|    5    | TypeScript                     | Understanding TypeScript                                    |   🚧   |
-|    6    | Git & GitHub                   | The Git & Github Bootcamp                                   |        |
-|    7    | React                          | React - The Complete Guide(incl Hooks, React-Router, Redux) |        |
-|    8    | React-Router                   |                                                             |        |
-|    9    | Redux                          |                                                             |        |
-|   10    | Styled Components              |                                                             |        |
-|   11    | SASS                           |                                                             |        |
-|   12    | D3.js                          |                                                             |        |
-|   13    | PWA                            |                                                             |        |
+| Sr. No. | Frontend / Client Technologies | Course / Documentation                                                                                     | Status |
+| :-----: | :----------------------------- | :--------------------------------------------------------------------------------------------------------- | :----: |
+|    1    | HTML                           | [Build Responsive Real-World Websites with HTML and CSS](https://github.com/kiranbansode/learn-html-css)   |   🚧   |
+|    2    | CSS                            |                                                                                                            |        |
+|    3    | JavaScript                     | [The Complete JavaScript Course - From Zero to Expert](https://github.com/kiranbansode/learn-javascript)   |   🚧   |
+|    4    | TypeScript                     | [Mastering TypeScript](https://github.com/kiranbansode/learn-typescript)                                   |   🚧   |
+|    5    | Git & GitHub                   | [The Git & Github Bootcamp](https://github.com/kiranbansode/learn-git-and-github)                          |   ✅   |
+|    6    | React                          | [React - The Complete Guide(incl Hooks, React-Router, Redux)](https://github.com/kiranbansode/learn-react) |   🚧   |
+|    7    | React-Router                   |                                                                                                            |        |
+|    8    | Redux                          |                                                                                                            |        |
+|    9    | Styled Components              |                                                                                                            |        |
+|   10    | SASS                           |                                                                                                            |        |
+|   11    | D3.js                          |                                                                                                            |        |
+|   12    | PWA                            |                                                                                                            |        |
 
 ### Back-End
 
-| Sr. No. | Backend / Server Technologies | Course / Documentation | Status |
-| :-----: | :---------------------------- | :--------------------: | :----: |
-|    1    | Linux                         |                        |        |
-|    2    | Firebase                      |                        |        |
-|    3    | Node.js                       |                        |        |
-|    4    | Express                       |                        |        |
-|    5    | REST API                      |                        |        |
-|    6    | GraphQL                       |                        |        |
-|    7    | PostgreSQL                    |                        |        |
-|    8    | MongoDB                       |                        |        |
+| Sr. No. | Backend / Server Technologies |                                           Course / Documentation                                            | Status |
+| :-----: | :---------------------------- | :---------------------------------------------------------------------------------------------------------: | :----: |
+|    1    | Linux                         |                                                                                                             |        |
+|    2    | Firebase                      |                                                                                                             |        |
+|    3    | Node.js                       | [NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)](https://github.com/kiranbansode/learn-nodejs) |   🚧   |
+|    4    | Express                       |                                                                                                             |        |
+|    5    | REST API                      |                                                                                                             |        |
+|    6    | GraphQL                       |                                                                                                             |        |
+|    7    | PostgreSQL                    |                                                                                                             |        |
+|    8    | MongoDB                       |                                                                                                             |        |
 
 ### Project Management / Designing Tools
 
-| Sr. No. | Project Management / Designing Tools | Course / Documentation | Status |
-| :-----: | :----------------------------------- | :--------------------: | :----: |
-|         | VSCode                               |                        |        |
-|         | Vite                                 |                        |        |
-|         | ESLint                               |                        |        |
-|         | Prettier                             |                        |        |
-|         | Husky                                |                        |        |
-|         | Conventional Commits                 |                        |        |
-|         | Figma                                |                        |        |
-|         | Draw.io                              |                        |        |
-|         | Trello                               |                        |        |
+| Sr. No. | Project Management / Designing Tools |                         Course / Documentation                         | Status |
+| :-----: | :----------------------------------- | :--------------------------------------------------------------------: | :----: |
+|         | VSCode                               |                                                                        |        |
+|         | Vite                                 |                                                                        |        |
+|         | ESLint                               |                                                                        |        |
+|         | Prettier                             |                                                                        |        |
+|         | Husky                                |                                                                        |        |
+|         | Conventional Commits                 | [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) |   ✅   |
+|         |                                      |   [Karma](http://karma-runner.github.io/6.4/dev/git-commit-msg.html)   |   ✅   |
+|         | SemVer                               |                                                                        |        |
+|         | Figma                                |                                                                        |        |
+|         | Draw.io                              |                                                                        |        |
+|         | Trello                               |                                                                        |        |
 
 ### Must have Skills
 
-| Sr. No. | Must have Skills               | Course / Documentation                                     | Status |
-| :-----: | :----------------------------- | :--------------------------------------------------------- | :----: |
-|         | Data Structures and Algorithms | Master the Coding Interview - Data Structures + Algorithms |   🚧   |
-|         | Design Patterns                | Design Patterns in JavaScript                              |        |
-|         | Software Testings              |                                                            |        |
+| Sr. No. | Must have Skills               | Course / Documentation | Status |
+| :-----: | :----------------------------- | :--------------------- | :----: |
+|         | Data Structures and Algorithms |                        |        |
+|         | Design Patterns                |                        |        |
+|         | Software Testings              |                        |        |
 
 ### Nice to Read or Learn
 
