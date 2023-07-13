@@ -13,7 +13,7 @@
 |    3    | JavaScript                     | [The Complete JavaScript Course - From Zero to Expert](https://github.com/kiranbansode/learn-javascript)   |   🚧   |
 |    4    | TypeScript                     | [Mastering TypeScript](https://github.com/kiranbansode/learn-typescript)                                   |   🚧   |
 |    5    | Git & GitHub                   | [The Git & Github Bootcamp](https://github.com/kiranbansode/learn-git-and-github)                          |   ✅   |
-|    6    | React                          | [React - The Complete Guide(incl Hooks, React-Router, Redux)](https://github.com/kiranbansode/learn-react) |   🚧   |
+|    6    | React                          | [React - The Complete Guide(incl Hooks, React-Router, Redux)](https://github.com/kiranbansode/learn-react) |   ✅   |
 |    7    | React-Router                   |                                                                                                            |        |
 |    8    | Redux                          |                                                                                                            |        |
 |    9    | Styled Components              |                                                                                                            |        |
